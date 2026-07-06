@@ -2844,6 +2844,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"csv-parse@npm:^7.0.1":
+  version: 7.0.1
+  resolution: "csv-parse@npm:7.0.1"
+  checksum: 10/5c914f01181dbb381068b98e17b49361d853faa95db3e8e82bc96b6a0de5313ecc8325a77db35ff66644d7747099965ba3167ec21bd9ce4500edf21b5bdd49bf
+  languageName: node
+  linkType: hard
+
 "debug@npm:4, debug@npm:^4.3.1, debug@npm:^4.3.2, debug@npm:^4.3.4":
   version: 4.3.4
   resolution: "debug@npm:4.3.4"
@@ -2899,7 +2906,7 @@ __metadata:
     "@typescript-eslint/parser": "npm:^8.56.1"
     "@vitest/coverage-v8": "npm:^4.0.18"
     "@vitest/eslint-plugin": "npm:^1.6.9"
-    csv-parse: "npm:^7.0.0"
+    csv-parse: "npm:^7.0.1"
     dotenv: "npm:^17.3.1"
     esbuild: "npm:^0.28.0"
     eslint: "npm:^9.39.3"
